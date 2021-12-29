@@ -1,7 +1,7 @@
 # writeps
 Send a message to a process stdin
 
-Some code is refering to the writevt.c contain in console-tools , but I can't find the author.
+Some code is refering to the writevt.c contained in console-tools , but I can't find the author.
 the sources of that file is the link below :
 
 https://github.com/jr-k/writevt
